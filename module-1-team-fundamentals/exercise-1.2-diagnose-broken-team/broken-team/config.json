@@ -1,0 +1,25 @@
+{
+  "name": "feature-build",
+  "members": [
+    {
+      "name": "team-lead",
+      "agentType": "team-lead",
+      "model": "claude-opus-4-6"
+    },
+    {
+      "name": "frontend-dev",
+      "agentType": "general-purpose",
+      "model": "claude-sonnet-4-5-20250929"
+    },
+    {
+      "name": "backend-dev",
+      "agentType": "general-purpose",
+      "model": "claude-sonnet-4-5-20250929"
+    },
+    {
+      "name": "",
+      "agentType": "general-purpose",
+      "model": "claude-sonnet-4-5-20250929"
+    }
+  ]
+}

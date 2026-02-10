@@ -1,0 +1,24 @@
+{
+  "hooks": {
+    "TeamateIdle": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/check-remaining-work.sh"
+          }
+        ]
+      }
+    ],
+    "TaskCompleted": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/verify-tests.sh"
+          }
+        ]
+      }
+    ]
+  }
+}

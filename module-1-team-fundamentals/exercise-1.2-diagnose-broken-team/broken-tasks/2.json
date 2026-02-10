@@ -1,0 +1,9 @@
+{
+  "id": "2",
+  "subject": "Implement backend API endpoints",
+  "description": "Build the Express routes for GET/PUT /api/settings based on the schema from task 1.",
+  "owner": "backend-dev",
+  "status": "in_progress",
+  "blocks": ["4"],
+  "blockedBy": ["1", "5"]
+}

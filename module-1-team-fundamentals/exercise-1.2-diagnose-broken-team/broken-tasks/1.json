@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "Design API schema for user settings",
+  "description": "Create the OpenAPI schema for the new user settings endpoints. Define request/response types for GET/PUT /api/settings.",
+  "owner": "backend-dev",
+  "status": "completed",
+  "blocks": ["2", "3"],
+  "blockedBy": []
+}

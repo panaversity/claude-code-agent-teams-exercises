@@ -1,0 +1,9 @@
+{
+  "id": "3",
+  "subject": "Build frontend settings page",
+  "description": "Create React components for the settings page. Use the API schema from task 1 for type definitions.",
+  "owner": "frontend-dev",
+  "status": "pending",
+  "blocks": ["4"],
+  "blockedBy": ["1"]
+}
