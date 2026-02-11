@@ -1,0 +1,22 @@
+name: Release Exercise Pack
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create ZIP
+        run: |
+          zip -r agent-teams-exercises.zip . \
+            -x ".git/*" ".github/*"
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          files: agent-teams-exercises.zip
+          body: "Agent Teams exercises for Chapter 3"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
