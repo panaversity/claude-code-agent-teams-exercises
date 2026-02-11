@@ -1,0 +1,37 @@
+category,item,one_time_cost,monthly_cost,notes,required
+Startup,Food Truck Purchase (Used),65000,0,2018-2020 model with basic kitchen equipment,Yes
+Startup,Truck Customization/Wrap,8500,0,Custom wrap with branding and menu board,Yes
+Startup,Kitchen Equipment Upgrades,12000,0,Flat-top griddle panini press refrigeration,Yes
+Startup,Initial Inventory,3500,0,First month of ingredients and supplies,Yes
+Startup,Permits and Licenses,1200,0,Health permit mobile vendor permit business license,Yes
+Startup,Insurance (First Year),0,350,Liability auto workers comp,Yes
+Startup,POS System,800,0,Square terminal and iPad setup,Yes
+Startup,Signage and Menu Boards,1500,0,Professional signage and chalkboard menus,Yes
+Startup,Website and Online Presence,2000,0,Website domain social media setup,Yes
+Startup,Legal (LLC Formation),500,0,LLC formation and operating agreement,Yes
+Startup,Food Safety Certifications,150,0,Additional staff certifications,Yes
+Startup,Small Wares and Utensils,2000,0,Spatulas containers serving supplies,Yes
+Startup,Generator,3500,0,Backup power for off-grid locations,Recommended
+Startup,Fire Suppression System,2500,0,Required for commercial cooking,Yes
+Startup,Cash Reserve (3 months),0,0,See monthly costs x 3,Recommended
+Operations,Food and Ingredients,0,5800,Based on projected 100 sandwiches/day avg,Yes
+Operations,Truck Park Rent,0,2200,Mid-range Austin location,Yes
+Operations,Fuel and Propane,0,600,Driving between locations plus cooking fuel,Yes
+Operations,Commercial Kitchen Rental,0,1200,Prep work and storage,Yes
+Operations,Insurance,0,350,Monthly premium,Yes
+Operations,POS/Payment Processing,0,180,2.6% + $0.10 per transaction,Yes
+Operations,Supplies (Packaging),0,450,Compostable containers napkins bags,Yes
+Operations,Cleaning and Sanitation,0,200,Cleaning supplies waste removal,Yes
+Operations,Truck Maintenance,0,400,Preventive maintenance and minor repairs,Yes
+Operations,Phone and Internet,0,150,Mobile hotspot for POS,Yes
+Operations,Accounting Software,0,50,QuickBooks subscription,Yes
+Operations,Marketing Budget,0,500,Social media ads local events,Yes
+Operations,Commissary/Storage,0,300,Additional cold storage if needed,Recommended
+Labor,Owner/Operator,0,0,Drawing from profits initially,Yes
+Labor,Part-Time Cook,0,2400,20 hrs/week at $15/hr plus taxes,Recommended
+Labor,Weekend Helper,0,960,16 hrs/weekend at $15/hr,Recommended
+Revenue Projection,Weekday Lunch (Mon-Fri),0,7500,100 sandwiches x $15 avg x 5 days x 4 weeks,Projection
+Revenue Projection,Weekday Dinner (Wed-Fri),0,2700,60 sandwiches x $15 avg x 3 days x 4 weeks,Projection
+Revenue Projection,Weekend Service (Sat-Sun),0,4800,80 sandwiches x $15 avg x 2 days x 4 weeks,Projection
+Revenue Projection,Catering/Events,0,2800,2-3 events per month average,Projection
+Revenue Projection,Total Monthly Revenue,0,17800,Conservative estimate months 3+,Projection

@@ -1,0 +1,18 @@
+category,allocated_amount,priority,notes,flexible
+Venue Rental,12000,Critical,Includes basic AV setup,No
+Catering - Lunch,6400,Critical,80 guests x $80/head plated,No
+Catering - Coffee Reception,1200,High,80 guests x $15/head,Yes
+Catering - Afternoon Snack,800,Medium,80 guests x $10/head,Yes
+Catering - Cocktail Reception,3200,High,80 guests x $40/head,Yes
+AV Equipment Rental,2500,Critical,Projector screen mics streaming,No
+Photographer,1500,Medium,6 hours coverage,Yes
+Printed Materials,800,Low,Programs name badges signage,Yes
+Transportation,2000,High,Shuttle from hotel for out-of-town guests,Yes
+Decorations,1500,Medium,Theme: Building Tomorrow Together,Yes
+Speaker Gifts,600,Low,3 keynote speakers x $200,Yes
+Contingency Reserve,3500,Critical,10% of total budget,No
+Event Insurance,500,High,Liability coverage,No
+Staff Overtime,1200,Medium,4 staff x 12 hours x $25/hr,Yes
+Live Stream Setup,800,High,Platform subscription and tech support,Yes
+Accessibility Services,1000,Critical,Captioning service and large print,No
+TOTAL,40000,,,

@@ -1,0 +1,81 @@
+guest_id,name,company,role,vip_status,dietary_requirement,accessibility_need,rsvp_status,hotel_needed,workshop_preference,notes
+G001,Sarah Chen,Internal,CEO,VIP,None,None,Confirmed,No,Workshop A,Opening keynote speaker
+G002,Marcus Johnson,Internal,CTO,VIP,Vegetarian,None,Confirmed,No,Workshop B,Technical keynote speaker
+G003,Aisha Patel,Internal,VP Sales,VIP,Vegan,None,Confirmed,No,Workshop A,Presenting Q1 results
+G004,Tom Williams,ClientCo,CEO,VIP,None,Wheelchair,Confirmed,Yes,Workshop A,Key client - needs accessible seating front row
+G005,Lisa Park,Internal,Engineering Lead,Standard,Gluten-Free,None,Confirmed,No,Workshop B,Workshop B facilitator
+G006,James O'Brien,PartnerInc,Director,VIP,None,None,Confirmed,Yes,Workshop C,Partnership renewal discussion
+G007,Mei Lin,Internal,Product Manager,Standard,Vegetarian,None,Confirmed,No,Workshop B,
+G008,David Kim,Internal,Designer,Standard,None,None,Confirmed,No,Workshop C,
+G009,Rachel Torres,ClientCo,CTO,VIP,Halal,None,Confirmed,Yes,Workshop B,Interested in API partnership
+G010,Ahmed Hassan,Internal,Sales Rep,Standard,Halal,None,Confirmed,No,Workshop A,
+G011,Emma Davis,Internal,Marketing Lead,Standard,Vegan,None,Confirmed,No,Workshop C,Workshop C facilitator
+G012,Chris Brown,PartnerInc,Engineer,Standard,None,None,Confirmed,Yes,Workshop B,
+G013,Sofia Rodriguez,Internal,HR Director,Standard,Vegetarian,None,Confirmed,No,Workshop A,
+G014,Ryan Chang,Internal,Finance Lead,Standard,None,None,Confirmed,No,Workshop A,
+G015,Olivia Taylor,ClientCo,VP Ops,VIP,Gluten-Free,None,Confirmed,Yes,Workshop C,Interested in enterprise plan
+G016,Nathan Wright,Internal,DevOps Lead,Standard,None,None,Confirmed,No,Workshop B,
+G017,Isabella Martinez,Internal,Content Lead,Standard,Vegetarian,None,Confirmed,No,Workshop C,
+G018,Daniel Lee,Internal,Backend Engineer,Standard,None,None,Tentative,No,Workshop B,May have conflict
+G019,Grace Kim,PartnerInc,BD Manager,Standard,None,None,Confirmed,Yes,Workshop A,
+G020,Alex Murphy,Internal,Frontend Engineer,Standard,Vegan,None,Confirmed,No,Workshop B,
+G021,Patricia Nguyen,Internal,QA Lead,Standard,None,None,Confirmed,No,Workshop B,
+G022,Michael Okafor,ClientCo,Engineer,Standard,None,Wheelchair,Confirmed,Yes,Workshop B,Needs accessible parking
+G023,Jennifer Walsh,Internal,Recruiter,Standard,Vegetarian,None,Confirmed,No,Workshop C,
+G024,Kevin Zhang,Internal,Data Scientist,Standard,None,None,Confirmed,No,Workshop B,
+G025,Maria Santos,Internal,Account Manager,Standard,None,None,Confirmed,No,Workshop A,
+G026,Robert Fraser,PartnerInc,VP Tech,VIP,None,None,Confirmed,Yes,Workshop B,Speaking in Workshop B
+G027,Samantha Pham,Internal,UX Researcher,Standard,Vegetarian,None,Confirmed,No,Workshop C,
+G028,Thomas Andersson,Internal,Security Lead,Standard,None,None,Confirmed,No,Workshop B,
+G029,Amy Chen,ClientCo,PM,Standard,Kosher,None,Confirmed,Yes,Workshop A,
+G030,Peter Müller,Internal,Cloud Architect,Standard,None,None,Tentative,No,Workshop B,Checking schedule
+G031,Diana Petrova,Internal,Legal Counsel,Standard,Gluten-Free,None,Confirmed,No,Workshop A,Review contracts
+G032,Hassan Al-Rashid,Internal,Support Lead,Standard,None,None,Confirmed,No,Workshop C,Workshop C co-facilitator
+G033,Laura Bennett,Internal,Intern,Standard,Vegan,None,Confirmed,No,Workshop C,First company event
+G034,William Harris,PartnerInc,Account Mgr,Standard,None,None,Confirmed,Yes,Workshop A,
+G035,Catherine Dubois,Internal,Analytics Lead,Standard,Vegetarian,None,Confirmed,No,Workshop B,
+G036,Joseph Park,Internal,Mobile Dev,Standard,None,None,Confirmed,No,Workshop B,
+G037,Stephanie Clark,ClientCo,CSO,VIP,None,Hearing Impaired,Confirmed,Yes,Workshop A,Needs captioning service
+G038,Richard Tanaka,Internal,Platform Lead,Standard,None,None,Confirmed,No,Workshop B,
+G039,Nicole Adams,Internal,Growth Lead,Standard,None,None,Confirmed,No,Workshop A,
+G040,Brian Cooper,Internal,Backend Engineer,Standard,Vegetarian,None,Confirmed,No,Workshop B,
+G041,Michelle Wang,PartnerInc,Designer,Standard,None,None,Confirmed,Yes,Workshop C,
+G042,Steven Garcia,Internal,SRE,Standard,None,None,Tentative,No,Workshop B,On-call that week
+G043,Angela Thompson,Internal,Office Manager,Standard,None,None,Confirmed,No,Workshop C,Coordinating logistics
+G044,Christopher Lee,ClientCo,Engineer,Standard,None,None,Confirmed,Yes,Workshop B,
+G045,Rebecca Wilson,Internal,Sales Rep,Standard,None,None,Confirmed,No,Workshop A,
+G046,Jonathan Reid,Internal,ML Engineer,Standard,None,None,Confirmed,No,Workshop B,
+G047,Kimberly Scott,Internal,Comms Lead,Standard,None,None,Confirmed,No,Workshop C,
+G048,Darren Brooks,PartnerInc,CTO,VIP,None,None,Confirmed,Yes,Workshop B,Technical decision maker
+G049,Vanessa Huang,Internal,Product Designer,Standard,None,None,Confirmed,No,Workshop C,
+G050,George Patterson,Internal,VP Engineering,VIP,None,None,Confirmed,No,Workshop B,Afternoon keynote
+G051,Heather Moore,Internal,Recruiting Lead,Standard,None,None,Confirmed,No,Workshop A,
+G052,Paul Nakamura,Internal,iOS Developer,Standard,None,None,Confirmed,No,Workshop B,
+G053,Andrea Silva,ClientCo,Director,VIP,None,None,Confirmed,Yes,Workshop A,Renewal coming up in Q3
+G054,Mark Robinson,Internal,DevRel Lead,Standard,None,None,Confirmed,No,Workshop C,
+G055,Julia Ivanova,Internal,Data Engineer,Standard,None,None,Tentative,No,Workshop B,Remote - may join livestream
+G056,Stephen Young,Internal,Sales Director,Standard,None,None,Confirmed,No,Workshop A,
+G057,Megan O'Connor,PartnerInc,PM,Standard,None,None,Confirmed,Yes,Workshop B,
+G058,Victor Almeida,Internal,Full Stack Dev,Standard,None,None,Confirmed,No,Workshop B,
+G059,Christine Palmer,Internal,Learning Lead,Standard,None,None,Confirmed,No,Workshop C,
+G060,Frank Mitchell,ClientCo,VP Sales,VIP,Halal,None,Confirmed,Yes,Workshop A,Enterprise deal pending
+G061,Diana Cho,Internal,Technical Writer,Standard,None,None,Confirmed,No,Workshop C,
+G062,Oliver Stone,Internal,Platform Engineer,Standard,None,None,Confirmed,No,Workshop B,
+G063,Wendy Zhao,Internal,Customer Success,Standard,None,None,Confirmed,No,Workshop A,
+G064,Ian Campbell,PartnerInc,Architect,Standard,None,None,Confirmed,Yes,Workshop B,
+G065,Tanya Reeves,Internal,Brand Manager,Standard,Vegetarian,None,Confirmed,No,Workshop C,
+G066,Eugene Park,Internal,Android Dev,Standard,None,None,Confirmed,No,Workshop B,
+G067,Amanda Foster,Internal,Project Manager,Standard,None,None,Confirmed,No,Workshop A,
+G068,Scott Henderson,ClientCo,Engineer,Standard,None,None,Tentative,Yes,Workshop B,Checking with manager
+G069,Natalie Wood,Internal,People Ops,Standard,None,None,Confirmed,No,Workshop C,
+G070,Derek Washington,Internal,Infrastructure,Standard,None,None,Confirmed,No,Workshop B,
+G071,Cynthia Lam,Internal,Business Analyst,Standard,None,None,Confirmed,No,Workshop A,
+G072,Russell Kim,PartnerInc,BD Lead,Standard,None,None,Confirmed,Yes,Workshop A,
+G073,Pamela Torres,Internal,QA Engineer,Standard,None,None,Confirmed,No,Workshop B,
+G074,Jeffrey Ng,Internal,Security Engineer,Standard,None,None,Confirmed,No,Workshop B,
+G075,Deborah Martin,Internal,CFO,VIP,None,None,Confirmed,No,Workshop A,Presenting budget review
+G076,Kenneth Liu,Internal,AI Engineer,Standard,None,None,Confirmed,No,Workshop B,
+G077,Barbara Thompson,ClientCo,COO,VIP,None,None,Confirmed,Yes,Workshop A,Strategic partnership discussion
+G078,Raymond Cruz,Internal,Support Engineer,Standard,None,None,Confirmed,No,Workshop C,
+G079,Sharon Williams,Internal,Admin Assistant,Standard,None,None,Confirmed,No,Workshop C,Event day coordinator
+G080,Timothy Green,PartnerInc,Tech Lead,Standard,None,None,Confirmed,Yes,Workshop B,

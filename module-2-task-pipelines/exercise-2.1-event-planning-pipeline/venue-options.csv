@@ -1,0 +1,13 @@
+venue_name,capacity_theater,capacity_banquet,breakout_rooms,daily_rate,catering_in_house,av_included,wifi_capacity,wheelchair_accessible,parking_spots,distance_from_hotel_miles,availability_apr18,notes
+Grand Ballroom Hotel Luxe,200,120,4,15000,Yes,Basic,200,Yes,150,0,Available,Connected to recommended hotel - no shuttle needed
+Riverside Convention Center,500,300,8,22000,Yes,Full,500,Yes,400,3.2,Available,Way over capacity needs but excellent facilities
+Innovation Hub Downtown,100,80,3,8500,No,Basic,150,Yes,50,1.5,Available,Modern tech startup space good WiFi
+The Garden Pavilion,90,75,2,9200,Preferred vendor list,None,80,Partial,60,4.1,Available,Beautiful outdoor option but only 2 breakout rooms
+Metro Arts Center,150,100,4,11000,No,Full,200,Yes,100,2.8,Available,Great AV and acoustics unique atmosphere
+Lakeside Country Club,120,90,3,13500,Yes,Basic,100,Yes,200,8.5,Available,Premium catering but far from downtown
+City Library Event Space,80,60,3,5500,No,None,80,Yes,30,0.8,Tentative,Budget friendly but tight capacity and no AV
+University Conference Center,180,120,6,7500,Yes,Full,300,Yes,200,5.2,Available,Great value but campus parking is limited
+Tech Campus Events,100,80,4,9800,No,Full,500,Yes,100,3.5,Booked,Already booked for April 18
+Sunset Rooftop Venue,70,50,1,12000,Preferred vendor,None,60,No,40,1.2,Available,Not wheelchair accessible capacity too low
+Historic Manor House,90,70,3,14000,Yes,None,50,Partial,80,6.3,Available,Beautiful but low WiFi and partial accessibility
+Corporate Tower Floor 40,100,80,3,10500,No,Basic,200,Yes,Underground,0.5,Available,City views good transit access no parking lot

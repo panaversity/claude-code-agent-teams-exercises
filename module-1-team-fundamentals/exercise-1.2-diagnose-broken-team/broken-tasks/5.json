@@ -1,9 +1,0 @@
-{
-  "id": "5",
-  "subject": "Deploy to staging",
-  "description": "Deploy the completed feature to the staging environment for QA review.",
-  "owner": "backend-dev",
-  "status": "pending",
-  "blocks": ["2"],
-  "blockedBy": ["4"]
-}

@@ -1,0 +1,51 @@
+segment,sub_segment,market_size_millions,growth_rate_pct,competition_level,avg_order_value,customer_retention_pct,entry_barrier,region
+Premium Dry Food,Grain-Free,2450,8.2,High,65,72,Medium,National
+Premium Dry Food,Organic,1820,12.5,Medium,78,68,Medium,National
+Premium Dry Food,Limited Ingredient,980,15.1,Low,82,75,Low,National
+Premium Wet Food,Pate Style,1650,6.8,High,45,65,Medium,National
+Premium Wet Food,Stew Style,890,9.3,Medium,52,70,Low,National
+Premium Wet Food,Raw Blend,420,22.4,Low,95,78,Medium,National
+Fresh/Refrigerated,Subscription Box,1200,28.6,Medium,120,82,High,Urban
+Fresh/Refrigerated,Meal Prep,680,31.2,Low,145,85,High,Urban
+Fresh/Refrigerated,Frozen Raw,540,18.7,Medium,110,76,Medium,Suburban
+Treats & Supplements,Functional Treats,760,14.3,High,35,58,Low,National
+Treats & Supplements,Joint Health,480,16.8,Medium,42,71,Low,National
+Treats & Supplements,Dental Care,390,11.2,High,28,55,Low,National
+Breed-Specific,Small Breed Premium,620,10.5,Medium,72,74,Medium,National
+Breed-Specific,Large Breed Premium,510,9.8,Medium,85,71,Medium,National
+Breed-Specific,Senior Dog,340,19.2,Low,78,80,Low,National
+Diet-Specific,Weight Management,290,13.7,Low,68,73,Low,National
+Diet-Specific,Allergy-Friendly,440,21.3,Low,92,81,Medium,National
+Diet-Specific,Diabetic Formulas,180,17.6,Low,105,84,High,National
+Delivery Only,Same-Day Premium,380,35.4,Low,135,79,High,Urban
+Delivery Only,Weekly Subscription,890,26.8,Medium,95,83,Medium,Suburban
+Delivery Only,Auto-Ship Bulk,1100,8.9,High,75,77,Low,National
+Puppy Premium,Starter Kits,450,14.2,Medium,125,62,Medium,National
+Puppy Premium,Growth Formulas,520,11.8,Medium,88,67,Low,National
+Cat Premium,Indoor Formula,680,7.9,High,58,69,Medium,National
+Cat Premium,Raw/Fresh,310,24.1,Low,105,81,Medium,Urban
+Cat Premium,Senior Care,220,16.5,Low,72,78,Low,National
+Multi-Pet,Bundle Discounts,750,12.4,Medium,155,80,Medium,National
+Multi-Pet,Mixed Species,340,18.9,Low,180,76,Low,National
+Eco-Friendly,Sustainable Packaging,290,33.7,Low,88,82,Medium,Urban
+Eco-Friendly,Insect Protein,120,42.1,Low,95,71,High,Urban
+Eco-Friendly,Local Sourcing,210,25.6,Low,105,84,Medium,Regional
+Veterinary Diet,Prescription Delivery,890,9.4,High,115,88,High,National
+Veterinary Diet,Therapeutic Treats,230,15.3,Medium,48,79,Medium,National
+International Brands,European Premium,340,19.8,Low,125,73,Medium,Urban
+International Brands,Asian Specialty,180,27.3,Low,95,68,Medium,Urban
+Tech-Enabled,AI Diet Planning,160,45.2,Low,135,80,High,Urban
+Tech-Enabled,DNA-Based Nutrition,90,38.6,Low,195,77,High,Urban
+Tech-Enabled,IoT Feeder Integration,110,29.4,Low,225,82,High,Urban
+Gift & Seasonal,Holiday Gift Boxes,280,8.5,High,85,32,Low,National
+Gift & Seasonal,Birthday Celebrations,95,22.1,Low,65,28,Low,National
+Private Label,Store Brand Premium,1450,6.2,High,55,71,High,National
+Private Label,Startup DTC Brands,620,24.8,Medium,82,74,Medium,National
+Convenience,Gas Station Premium,180,3.1,Low,22,45,Low,National
+Convenience,Pharmacy Channel,240,5.7,Medium,38,52,Low,National
+Human-Grade,USDA Certified,520,29.3,Low,145,83,High,Urban
+Human-Grade,Restaurant Quality,180,34.5,Low,175,79,High,Urban
+Ethnic/Cultural,Halal Pet Food,75,31.2,Low,88,76,Medium,Regional
+Ethnic/Cultural,Kosher Pet Food,45,18.4,Low,92,74,Medium,Regional
+Performance,Working Dog Premium,310,7.6,Medium,95,82,Medium,Rural
+Performance,Sport Dog Nutrition,220,11.3,Medium,108,79,Medium,Suburban

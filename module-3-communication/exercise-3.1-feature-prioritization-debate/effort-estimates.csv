@@ -1,0 +1,19 @@
+feature,component,engineering_weeks,team_size,complexity,risk_level,dependencies
+Advanced Analytics Dashboard,Data Pipeline,4,2,Medium,Low,None
+Advanced Analytics Dashboard,Dashboard UI,6,2,High,Medium,Data Pipeline
+Advanced Analytics Dashboard,Custom Alerts,3,1,Medium,Low,Data Pipeline
+Advanced Analytics Dashboard,Report Generation,4,1,Medium,Low,Dashboard UI
+Advanced Analytics Dashboard,Role-Based Access,2,1,Low,Low,Dashboard UI
+Advanced Analytics Dashboard,Total,12,3,Medium,Low-Medium,
+Team Collaboration Suite,Shared Workspaces,5,2,High,Medium,None
+Team Collaboration Suite,Comments and Mentions,4,2,Medium,Low,Shared Workspaces
+Team Collaboration Suite,Real-Time Co-Editing,8,3,Very High,High,Shared Workspaces
+Team Collaboration Suite,Activity Feed,3,1,Medium,Low,Comments and Mentions
+Team Collaboration Suite,Threaded Discussions,3,1,Medium,Low,Comments and Mentions
+Team Collaboration Suite,Total,16,3,High,Medium-High,
+API Marketplace,OAuth Infrastructure,4,2,High,High,None
+API Marketplace,Integration Catalog,3,1,Medium,Low,None
+API Marketplace,Webhook System,5,2,High,Medium,OAuth Infrastructure
+API Marketplace,Developer Portal,6,2,High,Medium,OAuth Infrastructure
+API Marketplace,Usage Analytics,3,1,Medium,Low,Webhook System
+API Marketplace,Total,14,3,High,Medium-High,

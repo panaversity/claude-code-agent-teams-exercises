@@ -1,0 +1,101 @@
+respondent_id,company_size,role,feature_a_importance,feature_b_importance,feature_c_importance,feature_a_willingness_to_pay,feature_b_willingness_to_pay,feature_c_willingness_to_pay,current_pain_level,plan_type
+R001,Enterprise,VP Ops,5,3,4,Yes,No,Yes,High,Premium
+R002,Mid-Market,PM,4,5,3,Yes,Yes,No,Medium,Standard
+R003,Startup,Founder,2,5,4,No,Yes,Yes,High,Basic
+R004,Enterprise,CTO,5,4,5,Yes,Yes,Yes,High,Premium
+R005,Mid-Market,Data Analyst,5,2,3,Yes,No,No,High,Standard
+R006,Enterprise,IT Director,4,3,5,Yes,No,Yes,Medium,Premium
+R007,Startup,Developer,1,4,5,No,Yes,Yes,Medium,Basic
+R008,Mid-Market,Team Lead,3,5,2,No,Yes,No,High,Standard
+R009,Enterprise,CFO,5,2,3,Yes,No,Yes,Low,Premium
+R010,Startup,PM,3,5,4,No,Yes,Yes,High,Basic
+R011,Mid-Market,Designer,2,5,1,No,Yes,No,Medium,Standard
+R012,Enterprise,VP Sales,4,4,3,Yes,Yes,No,Medium,Premium
+R013,Startup,CTO,3,3,5,No,No,Yes,High,Basic
+R014,Mid-Market,Ops Manager,5,3,2,Yes,No,No,High,Standard
+R015,Enterprise,Data Lead,5,2,4,Yes,No,Yes,High,Premium
+R016,Startup,Marketer,1,5,2,No,Yes,No,Low,Basic
+R017,Mid-Market,Engineer,3,4,5,No,Yes,Yes,Medium,Standard
+R018,Enterprise,CISO,4,2,5,Yes,No,Yes,Medium,Premium
+R019,Startup,Sales Rep,2,5,1,No,Yes,No,Medium,Basic
+R020,Mid-Market,PM,4,4,3,Yes,Yes,No,High,Standard
+R021,Enterprise,VP Eng,5,3,5,Yes,No,Yes,High,Premium
+R022,Startup,Designer,1,5,3,No,Yes,No,Low,Basic
+R023,Mid-Market,Support Lead,4,4,2,Yes,Yes,No,High,Standard
+R024,Enterprise,Product Dir,5,3,4,Yes,No,Yes,High,Premium
+R025,Startup,Founder,3,5,4,No,Yes,Yes,High,Basic
+R026,Mid-Market,HR Manager,2,5,1,No,Yes,No,Low,Standard
+R027,Enterprise,Architect,4,2,5,Yes,No,Yes,Medium,Premium
+R028,Startup,Developer,2,3,5,No,No,Yes,High,Basic
+R029,Mid-Market,Team Lead,4,5,3,Yes,Yes,No,High,Standard
+R030,Enterprise,COO,5,4,4,Yes,Yes,Yes,Medium,Premium
+R031,Startup,PM,2,5,3,No,Yes,No,High,Basic
+R032,Mid-Market,Analyst,5,2,3,Yes,No,No,High,Standard
+R033,Enterprise,VP Product,5,3,4,Yes,No,Yes,High,Premium
+R034,Startup,Developer,1,4,5,No,Yes,Yes,Medium,Basic
+R035,Mid-Market,Ops Manager,4,4,2,Yes,Yes,No,Medium,Standard
+R036,Enterprise,IT Director,4,2,5,Yes,No,Yes,Medium,Premium
+R037,Startup,Founder,3,5,4,No,Yes,Yes,High,Basic
+R038,Mid-Market,Engineer,3,3,4,No,No,Yes,Medium,Standard
+R039,Enterprise,Data Lead,5,2,3,Yes,No,No,High,Premium
+R040,Startup,Marketer,1,5,2,No,Yes,No,Low,Basic
+R041,Mid-Market,PM,4,5,3,Yes,Yes,No,High,Standard
+R042,Enterprise,VP Sales,5,3,4,Yes,No,Yes,Medium,Premium
+R043,Startup,CTO,2,3,5,No,No,Yes,High,Basic
+R044,Mid-Market,Designer,2,5,2,No,Yes,No,Medium,Standard
+R045,Enterprise,CFO,5,2,3,Yes,No,No,Low,Premium
+R046,Startup,Developer,1,4,5,No,Yes,Yes,High,Basic
+R047,Mid-Market,Support Lead,3,4,2,No,Yes,No,High,Standard
+R048,Enterprise,CISO,4,2,5,Yes,No,Yes,Medium,Premium
+R049,Startup,PM,2,5,3,No,Yes,No,High,Basic
+R050,Mid-Market,Team Lead,4,5,3,Yes,Yes,No,High,Standard
+R051,Enterprise,Architect,5,2,5,Yes,No,Yes,High,Premium
+R052,Startup,Founder,3,5,4,No,Yes,Yes,High,Basic
+R053,Mid-Market,Analyst,5,3,2,Yes,No,No,High,Standard
+R054,Enterprise,VP Eng,5,3,5,Yes,No,Yes,High,Premium
+R055,Startup,Designer,1,5,2,No,Yes,No,Low,Basic
+R056,Mid-Market,Engineer,3,3,5,No,No,Yes,Medium,Standard
+R057,Enterprise,Product Dir,5,4,4,Yes,Yes,Yes,High,Premium
+R058,Startup,Developer,2,4,5,No,Yes,Yes,Medium,Basic
+R059,Mid-Market,HR Manager,2,5,1,No,Yes,No,Low,Standard
+R060,Enterprise,COO,4,3,4,Yes,No,Yes,Medium,Premium
+R061,Startup,PM,2,5,4,No,Yes,Yes,High,Basic
+R062,Mid-Market,Ops Manager,5,4,2,Yes,Yes,No,High,Standard
+R063,Enterprise,Data Lead,5,2,4,Yes,No,Yes,High,Premium
+R064,Startup,CTO,2,3,5,No,No,Yes,High,Basic
+R065,Mid-Market,Team Lead,3,5,3,No,Yes,No,High,Standard
+R066,Enterprise,IT Director,4,3,5,Yes,No,Yes,Medium,Premium
+R067,Startup,Marketer,1,5,2,No,Yes,No,Low,Basic
+R068,Mid-Market,PM,4,4,3,Yes,Yes,No,High,Standard
+R069,Enterprise,VP Product,5,3,5,Yes,No,Yes,High,Premium
+R070,Startup,Founder,3,5,4,No,Yes,Yes,High,Basic
+R071,Mid-Market,Support Lead,4,4,2,Yes,Yes,No,High,Standard
+R072,Enterprise,VP Sales,5,3,3,Yes,No,No,Medium,Premium
+R073,Startup,Developer,1,4,5,No,Yes,Yes,Medium,Basic
+R074,Mid-Market,Analyst,5,2,3,Yes,No,No,High,Standard
+R075,Enterprise,Architect,4,2,5,Yes,No,Yes,Medium,Premium
+R076,Startup,PM,2,5,3,No,Yes,No,High,Basic
+R077,Mid-Market,Engineer,3,4,4,No,Yes,Yes,Medium,Standard
+R078,Enterprise,CFO,5,2,3,Yes,No,No,Low,Premium
+R079,Startup,Designer,2,5,2,No,Yes,No,Medium,Basic
+R080,Mid-Market,Team Lead,4,5,3,Yes,Yes,No,High,Standard
+R081,Enterprise,COO,5,3,4,Yes,No,Yes,High,Premium
+R082,Startup,Developer,1,3,5,No,No,Yes,High,Basic
+R083,Mid-Market,Ops Manager,4,4,2,Yes,Yes,No,Medium,Standard
+R084,Enterprise,VP Eng,5,3,5,Yes,No,Yes,High,Premium
+R085,Startup,CTO,2,4,5,No,Yes,Yes,High,Basic
+R086,Mid-Market,PM,4,5,3,Yes,Yes,No,High,Standard
+R087,Enterprise,Data Lead,5,2,4,Yes,No,Yes,High,Premium
+R088,Startup,Founder,3,5,3,No,Yes,No,High,Basic
+R089,Mid-Market,Designer,2,5,2,No,Yes,No,Medium,Standard
+R090,Enterprise,IT Director,4,3,5,Yes,No,Yes,Medium,Premium
+R091,Startup,Developer,2,4,5,No,Yes,Yes,Medium,Basic
+R092,Mid-Market,Engineer,3,3,4,No,No,Yes,Medium,Standard
+R093,Enterprise,VP Product,5,4,4,Yes,Yes,Yes,High,Premium
+R094,Startup,Marketer,1,5,1,No,Yes,No,Low,Basic
+R095,Mid-Market,Support Lead,3,4,2,No,Yes,No,High,Standard
+R096,Enterprise,CISO,4,2,5,Yes,No,Yes,Medium,Premium
+R097,Startup,PM,2,5,4,No,Yes,Yes,High,Basic
+R098,Mid-Market,Analyst,5,3,3,Yes,No,No,High,Standard
+R099,Enterprise,VP Sales,4,3,4,Yes,No,Yes,Medium,Premium
+R100,Startup,Founder,3,5,5,No,Yes,Yes,High,Basic

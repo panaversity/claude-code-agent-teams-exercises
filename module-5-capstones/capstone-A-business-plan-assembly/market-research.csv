@@ -1,0 +1,56 @@
+metric,category,value,source,date,notes
+Total Food Trucks in Austin,Market Size,1850,Austin Mobile Food Vendors Association,2025-Q4,Licensed active trucks
+Food Truck Revenue Austin Total,Market Size,420000000,IBISWorld Local,2025,Total market
+Avg Revenue Per Truck,Market Size,227027,Calculated,2025,Total / truck count
+Food Truck Industry Growth Rate Austin,Growth,8.2%,Austin Business Journal,2025,Year over year
+National Food Truck Growth Rate,Growth,6.8%,IBISWorld,2025,National comparison
+Austin Population,Demographics,1050000,US Census Bureau,2025,City proper
+Austin Metro Population,Demographics,2350000,US Census Bureau,2025,Metro area
+Median Household Income Austin,Demographics,82500,US Census Bureau,2025,
+Millennials Pct of Austin Pop,Demographics,28%,Austin Demographics Report,2025,Ages 27-42
+Food Truck Customers Per Day Avg,Operations,150,Food Truck Operator Survey,2025,Average across all types
+Food Truck Customers Per Day Peak,Operations,280,Food Truck Operator Survey,2025,Weekend lunch peak
+Avg Transaction Value Food Trucks,Pricing,14.50,Square Food Truck Data,2025,Austin average
+Premium Food Truck Avg Transaction,Pricing,18.75,Square Food Truck Data,2025,Gourmet/artisan category
+Grilled Cheese Specific Avg Price,Pricing,13.50,Menu Analysis (10 trucks),2025,Austin grilled cheese trucks
+Lunch Rush Pct of Daily Revenue,Operations,45%,Food Truck Operator Survey,2025,11am-2pm
+Dinner Pct of Daily Revenue,Operations,30%,Food Truck Operator Survey,2025,5pm-9pm
+Event/Catering Pct of Revenue,Operations,25%,Food Truck Operator Survey,2025,Festivals weekends private
+Grilled Cheese Food Trucks Austin,Competition,12,Yelp/Google Maps Analysis,2025-Q4,Direct competitors
+Sandwich Food Trucks Austin,Competition,45,Yelp/Google Maps Analysis,2025-Q4,Broader category
+Top Grilled Cheese Truck Rating,Competition,4.6,Yelp,2025-Q4,Cheese Wizards (est. 2020)
+Second Grilled Cheese Truck Rating,Competition,4.3,Yelp,2025-Q4,Melt Down ATX (est. 2022)
+Third Grilled Cheese Truck Rating,Competition,4.1,Yelp,2025-Q4,The Cheesy Rider (est. 2023)
+Avg Yelp Rating Food Trucks Austin,Competition,3.8,Yelp Analysis,2025-Q4,All food trucks
+Food Truck Failure Rate Year 1,Risk,15%,National Food Truck Assoc,2025,Close within 12 months
+Food Truck Failure Rate Year 3,Risk,35%,National Food Truck Assoc,2025,Close within 36 months
+South Congress Foot Traffic Daily,Location,12000,Austin Transportation Dept,2025,Average daily pedestrians
+Downtown 6th Street Foot Traffic,Location,18000,Austin Transportation Dept,2025,Average daily pedestrians
+Rainey Street Foot Traffic,Location,8000,Austin Transportation Dept,2025,Average daily pedestrians
+East Austin Food Truck Park Count,Location,8,Google Maps,2025-Q4,Established truck parks
+South Austin Food Truck Park Count,Location,6,Google Maps,2025-Q4,Established truck parks
+Avg Food Truck Park Monthly Rent,Location,1800,Food Truck Park Operators,2025,Austin average
+Premium Spot Monthly Rent,Location,3200,Food Truck Park Operators,2025,SoCo/Downtown
+Austin Food Festival Count Annual,Events,35,Austin Events Calendar,2025,Major food festivals
+Avg Festival Revenue Per Truck,Events,4500,Food Truck Operator Survey,2025,Per festival day
+Catering Events Avg Revenue,Events,2800,Food Truck Operator Survey,2025,Per private event
+Food Cost Pct Revenue Avg,Financials,28%,Food Truck Operator Survey,2025,Industry average
+Food Cost Pct Revenue Premium,Financials,32%,Food Truck Operator Survey,2025,Premium/gourmet trucks
+Labor Cost Pct Revenue,Financials,25%,Food Truck Operator Survey,2025,Including owner
+Operating Profit Margin Avg,Financials,12%,Food Truck Operator Survey,2025,After all costs
+Operating Profit Margin Top 25%,Financials,22%,Food Truck Operator Survey,2025,Top performers
+Break Even Months Avg,Financials,14,Food Truck Operator Survey,2025,Average to break even
+Break Even Months Fast,Financials,8,Food Truck Operator Survey,2025,Top performers
+Instagram Followers Top Austin Trucks,Marketing,15000,Instagram Analysis,2025-Q4,Average of top 10
+TikTok Followers Top Austin Trucks,Marketing,45000,TikTok Analysis,2025-Q4,Average of top 5
+Pct Customers from Social Media,Marketing,22%,Food Truck Customer Survey,2025,Discovered via social
+Pct Customers from Walk By,Marketing,38%,Food Truck Customer Survey,2025,Discovered by walking past
+Pct Customers from Word of Mouth,Marketing,28%,Food Truck Customer Survey,2025,Friend recommendation
+Pct Customers from Food Apps,Marketing,12%,Food Truck Customer Survey,2025,Yelp Google Maps etc
+Austin Health Permit Cost,Regulations,450,City of Austin,2025,Annual
+Mobile Food Vendor Permit Cost,Regulations,575,City of Austin,2025,Annual
+Food Handler Certification Cost,Regulations,25,Texas DSHS,2025,Per person
+Commercial Kitchen Rental Monthly,Operations,1200,Austin Shared Kitchens,2025,For prep work
+Avg Days Operating Per Week,Operations,5.5,Food Truck Operator Survey,2025,Most trucks
+Avg Hours Per Operating Day,Operations,8,Food Truck Operator Survey,2025,Setup to cleanup
+Seasonal Revenue Variation,Operations,±25%,Food Truck Operator Survey,2025,Summer peak winter low

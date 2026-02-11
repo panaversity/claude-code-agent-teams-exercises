@@ -1,8 +1,8 @@
-# Claude Code Agent Teams: Practical Exercises
+# Claude Code Agent Teams: Business Problem-Solving Exercises
 
-**By Panaversity -- Master Multi-Agent Orchestration**
+**By Panaversity -- Master Multi-Agent Orchestration Through Real Business Challenges**
 
-Welcome! This package contains 6 exercises + 2 capstone projects (8 total) for learning Claude Code's Agent Teams feature. You'll create teams, coordinate task dependencies, navigate between teammates, write quality hooks, and run a full 3-agent parallel code review.
+Welcome! This package contains 8 exercises + 3 capstone projects (11 total) for learning Claude Code's Agent Teams feature through real-world business problem solving. You'll create research teams, build task pipelines for event planning, run feature prioritization debates, and manage quality review cycles -- all using multi-agent coordination.
 
 ---
 
@@ -10,20 +10,25 @@ Welcome! This package contains 6 exercises + 2 capstone projects (8 total) for l
 
 ```
 agent-teams-exercises/
-+-- README.md                                       <- You are here
-+-- EXERCISE-GUIDE.md                               <- Full pedagogical guide
-+-- module-1-team-fundamentals/
-|   +-- exercise-1.1-create-navigate-team/          (create a 2-agent team, navigate, inspect internals)
-|   +-- exercise-1.2-diagnose-broken-team/          (debug a broken team from config/task files)
-+-- module-2-task-coordination/
-|   +-- exercise-2.1-dependency-pipeline/           (build a task chain with blockedBy dependencies)
-|   +-- exercise-2.2-fix-micromanaging-lead/        (diagnose and fix delegate mode failures)
-+-- module-3-quality-hooks/
-|   +-- exercise-3.1-team-quality-hooks/            (write TeammateIdle and TaskCompleted hooks)
-|   +-- exercise-3.2-debug-hook-failures/           (fix 3 broken team hooks)
-+-- module-4-capstones/
-    +-- capstone-A-parallel-code-review/            (full 3-agent security/performance/testing review)
-    +-- capstone-B-your-domain/                     (apply agent teams to your professional domain)
+├── README.md                                          ← You are here
+├── EXERCISE-GUIDE.md                                  ← Full guide with budget paths
+├── scoring-rubric.md                                  ← Universal 4-criteria rubric
+├── module-1-your-first-team/
+│   ├── exercise-1.1-market-research-sprint/           (3-agent team analyzes a market opportunity)
+│   └── exercise-1.2-team-architecture-workshop/       (design team structures for 5 scenarios)
+├── module-2-task-pipelines/
+│   ├── exercise-2.1-event-planning-pipeline/          (budget→venue→logistics dependency chain)
+│   └── exercise-2.2-pipeline-blueprint/               (design dependency graphs for 3 workflows)
+├── module-3-communication/
+│   ├── exercise-3.1-feature-prioritization-debate/    (3 advocates + 1 decision-maker)
+│   └── exercise-3.2-communication-protocol-design/    (plan message flows for 5 scenarios)
+├── module-4-quality-gates/
+│   ├── exercise-4.1-client-proposal-pipeline/         (draft→review→approve cycle)
+│   └── exercise-4.2-review-workflow-design/           (plan approval pipelines for 3 deliverables)
+└── module-5-capstones/
+    ├── capstone-A-business-plan-assembly/             (full business plan with 5 agents)
+    ├── capstone-B-customer-feedback-triage/           (triage 200 reviews with agent team)
+    └── capstone-C-your-business-challenge/            (apply to your own domain)
 ```
 
 ---
@@ -33,48 +38,78 @@ agent-teams-exercises/
 ### Prerequisites
 
 1. Claude Code with Agent Teams enabled:
-   ```json
-   { "env": { "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1" } }
+   ```bash
+   export CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1
    ```
 2. A working Claude Code session (CLI or VS Code)
 
-### With Claude Code (Terminal)
+### Quick Start
 
-1. Navigate to the exercise folder: `cd module-1-team-fundamentals/exercise-1.1-create-navigate-team`
+1. Navigate to the exercise folder: `cd module-1-your-first-team/exercise-1.1-market-research-sprint`
 2. Launch Claude Code
 3. Read the INSTRUCTIONS.md and start working
 
-### With Cowork (Desktop)
+---
 
-1. Open Claude Desktop, switch to Cowork tab
-2. Point Cowork at the exercise folder
-3. Read INSTRUCTIONS.md and follow the steps
+## Exercise Types
+
+Every module contains two exercises:
+
+| Type                      | What You Do                                            | API Cost |
+| ------------------------- | ------------------------------------------------------ | -------- |
+| **Exercise A (Hands-on)** | Run real agent teams with provided business data       | $$       |
+| **Exercise B (Design)**   | Design team architectures on paper -- no agents needed | Free     |
+
+Design exercises (B-type) teach team THINKING without API costs. You can learn the concepts for free, then selectively run hands-on exercises.
 
 ---
 
-## Recommended Order
+## Recommended Paths
 
-| Session   | Module                           | Exercises    | Budget   |
-| --------- | -------------------------------- | ------------ | -------- |
-| Session 1 | Module 1: Team Fundamentals      | 1.1, 1.2     | Low      |
-| Session 2 | Module 2: Task Coordination      | 2.1, 2.2     | Low-Med  |
-| Session 3 | Module 3: Quality Hooks          | 3.1, 3.2     | Low-Med  |
-| Session 4 | Module 4: Capstones (choose one) | A or B       | Medium   |
+### Full Path (All Exercises)
 
-**Budget note**: Exercises 1.2, 2.2, and 3.2 are debug/analysis exercises that require minimal or no API credits. They can be completed by reading files and reasoning about the problems.
+| Session | Module                    | Exercises  | Domain           | Budget   |
+| ------- | ------------------------- | ---------- | ---------------- | -------- |
+| 1       | Module 1: Your First Team | 1.1, 1.2   | Knowledge Work   | Low-Med  |
+| 2       | Module 2: Task Pipelines  | 2.1, 2.2   | Corporate        | Low-Med  |
+| 3       | Module 3: Communication   | 3.1, 3.2   | Entrepreneurship | Low-Med  |
+| 4       | Module 4: Quality Gates   | 4.1, 4.2   | Freelancer       | Low-Med  |
+| 5       | Module 5: Capstones       | A, B, or C | Mixed            | Med-High |
+
+### Budget-Friendly Path (Design First)
+
+Complete all design exercises for free, then run select hands-on exercises:
+
+1. Exercise 1.2 (design) → 2.2 (design) → 3.2 (design) → 4.2 (design)
+2. Then pick 1-2 hands-on exercises to run with agents
+
+### Speed Path (Essentials Only)
+
+1. Exercise 1.1 (learn teams) → 2.1 (learn pipelines) → 3.1 (learn communication) → Capstone A or B
 
 ---
 
-## Self-Assessment Rubric
+## Scoring Rubric
 
-| Criteria                 | Beginner (1)                  | Developing (2)                    | Proficient (3)                          | Advanced (4)                                 |
-| ------------------------ | :---------------------------: | :-------------------------------: | :-------------------------------------: | :------------------------------------------: |
-| **Team Creation**        | Cannot create a team          | Creates team but roles unclear    | Clear roles with file ownership         | Optimized team size and model selection      |
-| **Navigation**           | Cannot switch between agents  | Switches but loses track          | Fluent navigation, reads task list      | Uses internals to diagnose stuck teams       |
-| **Task Dependencies**    | Creates flat task lists       | Basic sequential dependencies     | Parallel-safe dependency chains         | Maximizes parallelism, avoids deadlocks      |
-| **Delegation Control**   | Lead implements everything    | Some delegation, some override    | Delegate mode + plan approval enforced  | Combines hooks with delegation for full control |
-| **Team Hooks**           | Cannot write team hooks       | Hooks defined but don't fire      | Working TeammateIdle + TaskCompleted    | Self-correcting hook pipelines               |
-| **Integration Thinking** | Uses teams for single tasks   | Teams for parallel work           | Teams + hooks + dependencies combined   | Full team workflow templates for reuse       |
+All exercises use the same 4-criteria rubric (see `scoring-rubric.md`):
+
+| Criteria                    | What It Measures                                             |
+| --------------------------- | ------------------------------------------------------------ |
+| **Comprehensiveness** (1-5) | Did the analysis cover all required angles?                  |
+| **Actionability** (1-5)     | Could someone act on these recommendations?                  |
+| **Evidence Quality** (1-5)  | Are conclusions backed by data from starter files?           |
+| **Team Coordination** (1-5) | Did agents effectively share and build on each other's work? |
+
+**Module exercises target**: 14/20
+**Capstones target**: 16/20
+
+---
+
+## Tool Note
+
+- **Claude Code (Terminal)**: Required for hands-on exercises (A-type). Agent Teams is a terminal feature.
+- **Cowork (Desktop)**: Works for design exercises (B-type) but does not support multi-agent team orchestration.
+- **Design exercises**: Can be completed with any text editor -- no Claude Code needed.
 
 ---
 

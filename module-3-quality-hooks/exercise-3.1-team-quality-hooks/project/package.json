@@ -1,8 +1,0 @@
-{
-  "name": "team-hooks-exercise",
-  "version": "1.0.0",
-  "description": "Exercise project for testing team quality hooks",
-  "scripts": {
-    "test": "node tests/test.js"
-  }
-}

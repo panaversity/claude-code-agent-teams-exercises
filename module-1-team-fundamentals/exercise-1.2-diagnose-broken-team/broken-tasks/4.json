@@ -1,9 +1,0 @@
-{
-  "id": "4",
-  "subject": "Write integration tests",
-  "description": "Write tests that verify frontend correctly calls backend endpoints and handles all response codes.",
-  "owner": "test-engineer",
-  "status": "pending",
-  "blocks": ["5"],
-  "blockedBy": ["2", "3"]
-}
